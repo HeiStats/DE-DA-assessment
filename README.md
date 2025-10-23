@@ -1,12 +1,8 @@
-===============================================================
-
 # Data Analysis Mentorship Assessment
 
 ## Objective
 
 Assess the candidate’s ability to integrate SQL, Python, Docker, and GitHub in a realistic data analysis workflow.
-
-===============================================================
 
 ## Scenario
 
@@ -99,14 +95,14 @@ Store all SQL queries in a queries.sql file.
 
 Submit the GitHub repository link containing:
 
-    - `docker-compose.yml`
+    - docker-compose.yml
 
-    - `src/load_data.py`
+    - src/load_data.py
 
-    - `src/analyze_data.py`
+    - src/analyze_data.py
 
-    - `queries.sql`
+    - queries.sql
 
-    - `data.csv` (or link to dataset)
+    - data.csv (or link to dataset)
 
-    - `README.md` (clearly document setup and run steps)
+    - README.md (clearly document setup and run steps)
